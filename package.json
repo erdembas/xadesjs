@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeculiarVentures/xadesjs.git"
+    "url": "git+https://github.com/erdembas/xadesjs.git"
   },
   "keywords": [
     "xml",
@@ -23,9 +23,9 @@
   "author": "Peculiar Ventures, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PeculiarVentures/xadesjs/issues"
+    "url": "https://github.com/erdembas/xadesjs/issues"
   },
-  "homepage": "https://github.com/PeculiarVentures/xadesjs#readme",
+  "homepage": "https://github.com/erdembas/xadesjs#readme",
   "dependencies": {
     "co": "^4.6.0",
     "node.extend": "^1.1.5",
@@ -33,7 +33,7 @@
     "xpath.js": "^1.0.6",
     "pkijs": "^1.3.27",
     "asn1js": "^1.2.12",
-    "node-webcrypto-p11": "1.0.3"
+    "node-webcrypto-p11": "erdembas/node-webcrypto-p11"
   },
   "devDependencies": {
     "express": "^4.13.4",
